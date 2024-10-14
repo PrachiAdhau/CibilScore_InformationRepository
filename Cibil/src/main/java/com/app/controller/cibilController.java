@@ -110,5 +110,9 @@ public class cibilController {
 		return cb;
 
 	}
+	public void vaishnavi()
+	{
+		System.out.println(" Method added");
+	}
 
 }
